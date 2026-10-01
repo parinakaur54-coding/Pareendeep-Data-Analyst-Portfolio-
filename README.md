@@ -1,7 +1,7 @@
 # 📊 Pareendeep Kaur's Portfolio
 
 Welcome to my portfolio! This page brings together my projects in data analytics,
-machine learning, business intelligence, and software development.
+machine learning, business intelligence, and software development which utilizes programming languages such as python and SQL.
 
 ## 📑 Table of Contents
 
@@ -13,9 +13,8 @@ machine learning, business intelligence, and software development.
 
 ## About Me
 
-I am a student interested in data analytics, business intelligence, and technology.
-I enjoy using data and technology to understand problems, identify patterns,
-and develop practical solutions.
+I am a masters student of Information Systems from Binus University that is interested in data analytics, business intelligence, and technology.
+I enjoy using data and technology to understand problems, identify patterns and develop practical solutions.
 
 ---
 
@@ -29,15 +28,6 @@ and develop practical solutions.
 | [Adaptive Traffic Light Machine Learning Model](https://github.com/parinakaur54-coding/Adaptive-Traffic-Light-Machine-Learning-Model-) | Machine Learning, Object Detection, Computer Vision, Traffic Analysis | Python, YOLO, Jupyter Notebook | Developed an adaptive traffic light model using machine learning to detect the number of vehicles on the road. |
 
 ---
-
-## Skills & Tools
-
-- **Programming:** Python, SQL
-- **Data Analytics:** Data Cleaning, EDA, Feature Engineering, Data Analysis
-- **Machine Learning:** Classification, NLP, Model Evaluation, Object Detection
-- **Database:** SQL Server, PostgreSQL, MySQL
-- **Visualization:** Power BI, Tableau
-- **Tools:** Google Colab, Git, GitHub
 
 - ## 🛠️ Skills & Tools
 
