@@ -38,3 +38,37 @@ and develop practical solutions.
 - **Database:** SQL Server, PostgreSQL, MySQL
 - **Visualization:** Power BI, Tableau
 - **Tools:** Google Colab, Git, GitHub
+
+- ## 🛠️ Skills & Tools
+
+### 🐍 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Analytics
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2E8B57?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-20B2AA?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4682B4?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-6A5ACD?style=for-the-badge)
+
+### 🤖 Machine Learning
+![Classification](https://img.shields.io/badge/Classification-8A2BE2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-DAA520?style=for-the-badge)
+![Object Detection](https://img.shields.io/badge/Object_Detection-FF6347?style=for-the-badge)
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📈 Data Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 💻 Development & Tools
+![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
