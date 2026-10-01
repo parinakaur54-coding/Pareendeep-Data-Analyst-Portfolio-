@@ -29,7 +29,7 @@ I enjoy using data and technology to understand problems, identify patterns and 
 
 ---
 
-- ## 🛠️ Skills & Tools
+- ## Skills & Tools
 
 ### 🐍 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
